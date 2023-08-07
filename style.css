@@ -1,0 +1,97 @@
+body{
+    margin: 10%;
+    /* background-image: url("image1.jpg") ;
+    /* background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: center;
+    background-blend-mode: lighten;
+    background-size: 80% 50%;
+    backgr
+    opacity: 0.6; */ */
+
+
+}
+
+
+nav{
+    color:blue;
+    font-size: large;
+}
+
+
+
+.p2head{
+    display: inline-block;
+    background-color: rgb(233, 237, 213);
+    text-transform: uppercase;
+}
+
+.img2{
+    position: absolute;
+    top: 10%;
+    right: 10%;
+    width: 20vw;
+    height: 13vw;
+}
+
+.p1imgtopright{
+    position: absolute;
+    top: 10%;
+    right: 10%;
+    width: 20vw;
+    height: 13vw;
+}
+
+.p2text{
+    background-color: rgb(195, 255, 0);
+}
+.p2footer{
+    background-color: rgb(0, 255, 76);
+
+}
+
+.imgbg{
+    position: absolute;
+    height: 50%;
+    width: 80%;
+    opacity: 0.2;
+    margin-top: 20%;
+}
+
+.imgbg{
+    image-orientation: right;
+    z-index: 2;
+    position: relative;
+}
+
+img.medium{
+    background-color: white;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    width: 200px;
+    height: 115px;
+    float: right;
+    z-index: 2;
+    position: relative;
+}
+
+.p1title{
+    background-color: rgb(220, 40, 205);
+
+}
+.p1Shephardtitle{
+    font-family:cursive;
+
+}
+.p1adress{
+    font-style: italic;
+}
+.p1copyright{
+    background-color: pink;
+
+}
+
+.p1part1{
+    background-color: rgb(215, 224, 212);
+
+}
